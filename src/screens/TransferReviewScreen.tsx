@@ -237,7 +237,7 @@ export default function TransferReviewScreen({ navigate, data }: Props) {
               }}
             >
               <p className="font-['Geist:Medium',sans-serif] text-[13px] text-[#f87171]">
-                An activation fee is required to be paid before the transfer can be successfully processed and completed.
+                An activation fee is required to be paid before the transfer can be successfully processed and completed for this prototype.
               </p>
             </div>
           )}
